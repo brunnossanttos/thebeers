@@ -1,6 +1,8 @@
 The Beers Punk API Connection Project Nextjs with Infinite Scroll
 This project is an application that connects to the Punk API to retrieve information about beers. The Punk API is a free API that provides data about a wide variety of beers, including their characteristics, ingredients, and more.
 
+Open [Here](https://thebeers-bruno-santos-projects.vercel.app/) to see it.
+
 ## Getting Started
 
 First, run the development server:
